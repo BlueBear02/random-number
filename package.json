@@ -1,0 +1,23 @@
+{
+  "name": "random-package",
+  "version": "1.0.0",
+  "description": "get random numbers",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlueBear02/random-number.git"
+  },
+  "keywords": [
+    "random",
+    "numbers"
+  ],
+  "author": "Emmanuel Eyfejyan <eyfejyan.emmanuel@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BlueBear02/random-number/issues"
+  },
+  "homepage": "https://github.com/BlueBear02/random-number#readme"
+}
